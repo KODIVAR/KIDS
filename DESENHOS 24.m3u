@@ -1,0 +1,91 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://redhot-fancydress.co.uk/store/images/uploads/Tom%20&%20Jerry%20Logo.jpg", Tom & Jerry
+rtmp://208.53.180.242/ctv playpath=tom swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1 
+
+#EXTINF:-1 tvg-logo="http://img05.deviantart.net/0e36/i/2015/061/a/9/south_park_logo_by_zizigolllo-d8k6cad.jpg", South Park
+http://veetle.com/index.php/hls/streamMbrFast/541c316fe8423_/stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://img05.deviantart.net/0e36/i/2015/061/a/9/south_park_logo_by_zizigolllo-d8k6cad.jpg", South Park (PT/BR)
+rtmp://208.53.164.194/ctv playpath=southpark swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/southpark.html
+
+#EXTINF:-1 tvg-logo="http://static.tvtropes.org/pmwiki/pub/images/new_scoow_doow_7704.png", Scobby Doo (BR)
+rtmp://208.53.180.178/ctv?wmsAuthSign=%AUTH% playpath=scooby swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/scooby.php
+
+#EXTINF:-1 tvg-logo="http://videosinfantis.pt/wp-content/uploads/2015/04/Pica-Pau.jpg", Pica Pau (BR)
+rtmp://208.53.180.218/ctv?wmsAuthSign=%AUTH% playpath=picapau swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/picapau.php
+
+#EXTINF:-1 tvg-logo="http://mlb-s2-p.mlstatic.com/os-flintstones-frete-gratis-4-temporadas-completas-14538-MLB226476454_6428-O.jpg", Os FLINTSTONES (BR)
+rtmp://208.53.180.242/ctv?wmsAuthSign=%AUTH% playpath=flinstones swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/flinstones.php
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/T8lTp6b.jpg", Os Jetsons (Wonder)
+rtmp://extondemand.livestream.com/ondemand playpath=trans/dv15/mogulus-user-files/chosjetsons/2011/12/02/a5fa7a37-b290-4cc8-b451-fa2c940601d3 swfUrl=http://cdn.livestream.com/chromelessPlayer/v20/playerapi.swf?jsEnabled=true pageUrl=http://www.tvonlinebtv.net/streans/jetsons.html
+
+#EXTINF:-1 tvg-logo="http://nick-intl.mtvnimages.com/uri/mgid:file:gsp:scenic:/international/mundonick.com.br/NickV2/pinguins-pt-showhub.jpg?quality=0.91&height=460&width=460&matte=true&crop=false", Os pinguins de Madagascar (BR)
+rtmp://208.53.180.218/ctv?wmsAuthSign=%AUTH% playpath=pinguins swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/pinguins.php
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/LVGEjXI.jpg", Bob Esponja
+rtmp://208.53.164.194/ctv playpath=bob swfUrl=http://www.canaistv.net/swf/player.swf pageUrl=http://www.canaistv.net/tvamigos/bobesponja.html
+
+#EXTINF:-1 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2012/12/thumbs/e6edbfcdf55cb359f902cd2e6cb2f703_jpg_290x478_upscale_q90.jpg", O Maskara (BR)
+rtmp://208.53.180.218/ctv?wmsAuthSign=%AUTH% playpath=maskara swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/maskara.php
+
+#EXTINF:-1 tvg-logo="http://tvfiles.alphacoders.com/145/clearart-145.png", The Simpsons
+http://veetle.com/index.php/hls/streamMbrFast/52dada61bdf13_/stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-HjowQOO5Vq8/VmmkOGlhiLI/AAAAAAAAAzw/V6d8kf-BA1c/s1600/padrinhosmagicos.png", Os Padrinhos Magicos (BR)
+rtmp://208.53.164.194/ctv?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMy8yMDE2IDI6NDE6MzcgQU0maGFzaF92YWx1ZT15VCtIQ1pCTitURGtONkdkbnBvTDVRPT0mdmFsaWRtaW51dGVzPTU=/ playpath=padrinhos swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/padrinhos.php
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dm87iS4.jpg", Caverna do Dragão
+rtmp://208.53.180.242/ctv playpath=caverna swfUrl=http://www.canaistv.net/swf/player.swf pageUrl=http://www.canaistv.net/tvamigos/caverna.html
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/nouLF8d.jpg", Digimon
+rtmp://212.129.30.215/digimon playpath=digimon swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf pageUrl=http://livestreamcast.org/embed.php?c=digimon&vw=100%&vh=100%.html
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PlrtvPV.jpg", Doug
+rtmp://208.53.180.178/ctv playpath=doug swfUrl=http://www.canaistv.net/swf/player.swf pageUrl=http://www.canaistv.net/tvamigos/doug.html
+
+#EXTINF:-1 tvg-logo="http://images1.wikia.nocookie.net/__cb20120921154236/dragonball/es/images/e/ef/DBZ.png", Dragon Ball Z
+rtmp://208.53.180.242/ctv/ playpath=dbz swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1 tvg-logo="http://www.cartoonpics.net/data/media/14/batman_cartoon_images_wallpaper.jpg", Batman
+rtmp://208.53.180.178/ctv playpath=batman swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/batman.html
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HlgJjQw.jpg", Ben 10
+rtmp://208.53.180.178/ctv playpath=ben10 swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/ben10.html
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WIDtHHd.jpg", Ducktales
+rtmp://208.53.164.194/ctv playpath=duck swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://aovivobrasil.com/tvamigos/ducktales.html
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/TQOunx7.jpg", Família Dinossauros
+rtmp://208.53.180.218/ctv playpath=dino swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/dinossauros.html
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3lyT6yQ.jpg", Futurama
+rtmp://208.53.164.194/ctv playpath=futurama swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/futurama.html
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Nskpqs1.jpg", Galinha Pintadinha
+rtmp://208.53.180.218/ctv playpath=galinha swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/galinhapintadinha.html
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/TAWK0TM.jpg", Naruto DB
+rtmp://208.53.180.178/ctv playpath=naruto swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/naruto.html
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/VwlDfP5.jpg", Naruto Shippuden
+rtmp://212.129.30.215/naruto/ playpath=naruto swfUrl=http://www.livestreamcast.org/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.livestreamcast.org/player/embed_t2.php?&c=naruto&vw=468&vh=360
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/VFCDR4W.jpg", O Fantástico Mundo de Bobby
+rtmp://208.53.180.242/ctv playpath=bobby swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://aovivobrasil.com/tvamigos/bobby.html
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/K2NznKl.jpg", ThunderCats
+rtmp://208.53.164.194/ctv playpath=thunder swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/thunder.html
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/uA8E9Uv.jpg", Uma Família da Pesada
+rtmp://208.53.164.194/ctv playpath=family swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/family.html
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YUkzwlb.jpg", X-Men
+rtmp://208.53.180.242/ctv playpath=xmen swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/xmen.html
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/enQLZQh.jpg", Yu-Gi-Oh!
+rtmp://208.53.180.178/ctv playpath=yugioh  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/yugioh.html
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-FOBnyTpayfI/VN-hHMTEy8I/AAAAAAAADaw/yBJSZUq76YY/s1600/cartoon-network.jpg", CARTOON CLASSICS 24/7
+mms://72.13.93.186/cartoonclassics
