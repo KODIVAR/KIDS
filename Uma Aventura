@@ -1,0 +1,192 @@
+<channels>
+<channel>
+<name>[COLOR lime] • [COLOR blue][B][I]Uma Aventura [/I][/B][/COLOR]</name>
+<thumbnail>http://s19.postimg.org/599mj3cpv/67754.jpg</thumbnail>
+<fanart>http://s19.postimg.org/4l0s05e03/Uma_Aventura.jpg</fanart>
+</subitem>
+</item>
+<item>  
+<title>[COLOR=yellow][B][I]Uma Aventura -na Cidade [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=vbWLtiG8wJY</link>
+<thumbnail>http://s19.postimg.org/d4orbnbqb/67754_C_pia.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Uma Aventura -na Biblioteca [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=UpQEuib6vrY</link>
+<thumbnail>http://s19.postimg.org/d4orbnbqb/67754_C_pia.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Uma Aventura -na Escola [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Ch3B61pHHWQ</link>
+<thumbnail>http://s19.postimg.org/d4orbnbqb/67754_C_pia.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Uma Aventura -no Supermercado [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=lTBrkku6uM0</link>
+<thumbnail>http://s19.postimg.org/d4orbnbqb/67754_C_pia.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Uma Aventura -em Lisboa [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=DTGZtviLp2k</link>
+<thumbnail>http://s19.postimg.org/d4orbnbqb/67754_C_pia.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Uma Aventura -no Palácio da Pena [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=TvBJWO3dx6Y</link>
+<thumbnail>http://s19.postimg.org/d4orbnbqb/67754_C_pia.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Uma Aventura -na Quinta das Lágrimas [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=_tuBHOCo9K8</link>
+<thumbnail>http://s19.postimg.org/d4orbnbqb/67754_C_pia.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Uma Aventura Temporada 2 -Perigosa [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=NpOJiEdzRc8</link>
+<thumbnail>http://s19.postimg.org/d4orbnbqb/67754_C_pia.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Uma Aventura Temporada 2 -no Bosque [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=wb31PeqYVGM</link>
+<thumbnail>http://s19.postimg.org/d4orbnbqb/67754_C_pia.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Uma Aventura Temporada 2 -no Estádio [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=gqx6izL2EPY</link>
+<thumbnail>http://s19.postimg.org/d4orbnbqb/67754_C_pia.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Uma Aventura Temporada 2 -no Carnaval [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=LFSCJOfB-tk</link>
+<thumbnail>http://s19.postimg.org/d4orbnbqb/67754_C_pia.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Uma Aventura Temporada 2 -no Inverno [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=4v3h92zx6FA</link>
+<thumbnail>http://s19.postimg.org/d4orbnbqb/67754_C_pia.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Uma Aventura Temporada 2 -Musical [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=1jshedaqSGg</link>
+<thumbnail>http://s19.postimg.org/d4orbnbqb/67754_C_pia.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Uma Aventura Temporada 2 -na Televisão [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=3O3c-PoFDCQ</link>
+<thumbnail>http://s19.postimg.org/d4orbnbqb/67754_C_pia.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Uma Aventura Temporada 2 -no Teatro [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=_SgFy4Rs84k</link>
+<thumbnail>http://s19.postimg.org/d4orbnbqb/67754_C_pia.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Uma Aventura Temporada 2 -no Verão [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=UHs5w8gQ4hk</link>
+<thumbnail>http://s19.postimg.org/d4orbnbqb/67754_C_pia.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Uma Aventura Temporada 3 -na Noite das Bruxas [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=KoM9wbjKUL0</link>
+<thumbnail>http://s19.postimg.org/d4orbnbqb/67754_C_pia.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Uma Aventura Temporada 3 -na Falésia OFF [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=xfh7uQziC-M....</link>
+<thumbnail>http://s19.postimg.org/d4orbnbqb/67754_C_pia.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Uma Aventura Temporada 3 -na Casa Assombrada [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=r6BRv2OR5ns</link>
+<thumbnail>http://s19.postimg.org/d4orbnbqb/67754_C_pia.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Uma Aventura Temporada 3 -no Ribatejo [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=i9UQ3CB6tz0</link>
+<thumbnail>http://s19.postimg.org/d4orbnbqb/67754_C_pia.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Uma Aventura Temporada 3 -Secreta [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Jr0df_KAg4k</link>
+<thumbnail>http://s19.postimg.org/d4orbnbqb/67754_C_pia.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Uma Aventura Temporada 3 -na Mina [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=bDJlSFs5EX8</link>
+<thumbnail>http://s19.postimg.org/d4orbnbqb/67754_C_pia.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Uma Aventura Temporada 3 -Alarmante [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=R0VuqJIULZY</link>
+<thumbnail>http://s19.postimg.org/d4orbnbqb/67754_C_pia.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Uma Aventura Temporada 3 -nas Férias Grandes [/I][/B][/COLOR]</title>
+<link>https://pgli8i.oloadcdn.net/dl/l/mzgzcFjaBWs/lGjfi-qP2nw/S03E08+Uma+Aventura+nas+F%C3%A9rias+Grandes.mp4?mime=true</link>
+<thumbnail>http://s19.postimg.org/d4orbnbqb/67754_C_pia.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Uma Aventura Temporada 3 -no Algarve [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=AqdADAzvizc</link>
+<thumbnail>http://s19.postimg.org/d4orbnbqb/67754_C_pia.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Uma Aventura Temporada 3 -no Castelo dos Ventos [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=mxu_RHPn7jk</link>
+<thumbnail>http://s19.postimg.org/d4orbnbqb/67754_C_pia.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Uma Aventura Temporada 3 -Debaixo da Terra [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Z9l5qI8jeww</link>
+<thumbnail>http://s19.postimg.org/d4orbnbqb/67754_C_pia.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Uma Aventura Temporada 3 -na Praia [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=tBhnnTuCKtQ</link>
+<thumbnail>http://s19.postimg.org/d4orbnbqb/67754_C_pia.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Uma Aventura Temporada 3 -Férias da Páscoa [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Ru6Ye1-KF34</link>
+<thumbnail>http://s19.postimg.org/d4orbnbqb/67754_C_pia.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Uma Aventura Temporada 3 -em Evoramonte [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=97h-lUuHXUM</link>
+<thumbnail>http://s19.postimg.org/d4orbnbqb/67754_C_pia.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Uma Aventura Temporada 3 -Fantástica [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=7mNMfNT7arM</link>
+<thumbnail>http://s19.postimg.org/d4orbnbqb/67754_C_pia.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Uma Aventura Temporada 3 -no Porto [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=dp4tMrrgE-w</link>
+<thumbnail>http://s19.postimg.org/d4orbnbqb/67754_C_pia.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Uma Aventura Temporada 4 -Entre Douro e Minho [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=UbG6ZwmqhVo</link>
+<thumbnail>http://s19.postimg.org/d4orbnbqb/67754_C_pia.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Uma Aventura Temporada 4 -Entre as Duas Margens Do Rio [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=q2F0kzydyoM</link>
+<thumbnail>http://s19.postimg.org/d4orbnbqb/67754_C_pia.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Uma Aventura Temporada 4 -na Terra e no Mar [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=ejHEL_87xhI</link>
+<thumbnail>http://s19.postimg.org/d4orbnbqb/67754_C_pia.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Uma Aventura Temporada 4 -no Caminho do Javali [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=xlAqXQZnofg</link>
+<thumbnail>http://s19.postimg.org/d4orbnbqb/67754_C_pia.jpg</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I]Uma Aventura Temporada 4 -no Comboio Ultimo [/I][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=l5enYMuzkNQ</link>
+<thumbnail>http://s19.postimg.org/d4orbnbqb/67754_C_pia.jpg</thumbnail>
+ </item>
