@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <channel>
@@ -56,7 +57,7 @@
 
 
 <item>  
-<title>[COLOR orange][B]Hora de Aventura[/B][/COLOR]BR</title>
+<title>[COLOR orange][B] Hora de Aventura [/B][/COLOR][COLOR lawngreen] BR [/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/KODIVAR/KIDS/master/Hora%20de%20Aventura.m3u</externallink>
 <thumbnail>http://1.bp.blogspot.com/-cEbtUhS2jlc/VYCX77pd-wI/AAAAAAAABZM/AAVaXBluVt8/s400/2015-05-11-1431305536-2499685-horadeaventuralatinoonlinecapitulos.jpg</thumbnail>
@@ -64,7 +65,7 @@
 </item>
 
 <item>  
-<title>[COLOR orange][B]Patrulha Pata[/B][/COLOR]</title>
+<title>[COLOR orange][B] Patrulha Pata[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/KODIVAR/KIDS/master/Patrulha%20Pata</externallink>
 <thumbnail>http://pawpatrol.com/tour/img/pawpatrol.png</thumbnail>
@@ -72,7 +73,7 @@
 </item>
 
 <item>  
-<title>[COLOR orange][B]Panda e os Caricas[/B][/COLOR]</title>
+<title>[COLOR orange][B] Panda e os Caricas[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/KODIVAR/KIDS/master/PANDA%20E%20OS%20CARICAS</externallink>
 <thumbnail>http://canelaehortela.com/wp-content/uploads/2012/10/panda_capa.jpg</thumbnail>
@@ -80,7 +81,7 @@
 </item>
 
 <item>  
-<title>[COLOR orange][B]Croods, O Inicio[/B][/COLOR]BR</title>
+<title>[COLOR orange][B] Croods, O Inicio [/B][/COLOR][COLOR lawngreen] BR [/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/KODIVAR/KIDS/master/Croods.m3u</externallink>
 <thumbnail>http://br.web.img1.acsta.net/pictures/15/12/22/17/15/570762.jpg</thumbnail>
@@ -97,7 +98,7 @@
 </item>
 
 <item>  
-<title>[COLOR orange][B]Uma Aventura[/B][/COLOR]</title>
+<title>[COLOR orange][B] Uma Aventura[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/KODIVAR/KIDS/master/Uma%20Aventura</externallink>
 <thumbnail>http://s19.postimg.org/4l0s05e03/Uma_Aventura.jpg</thumbnail>
@@ -105,7 +106,7 @@
 </item>
 
 <item>  
-<title>[COLOR orange][B]As Aventuras do Gato das Botas[/B][/COLOR]BR</title>
+<title>[COLOR orange][B] As Aventuras do Gato das Botas [/B][/COLOR][COLOR lawngreen] BR [/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/KODIVAR/KIDS/master/AS%20AVENTURAS%20DO%20GATO%20DE%20BOTAS</externallink>
 <thumbnail>http://static.wixstatic.com/media/0acd94_389c5038d4344b67a21c2a6137686491.jpg/v1/fill/w_276,h_389,al_c,lg_1,q_80/0acd94_389c5038d4344b67a21c2a6137686491.jpg</thumbnail>
@@ -113,7 +114,23 @@
 </item>
 
 <item>  
-<title>[COLOR orange][B]As Aventuras de Tintim[/B][/COLOR]BR</title>
+<title>[COLOR orange][B] SCOOBY DOO - Os Ho-Ho-Límpicos [/B][/COLOR][COLOR lawngreen] BR [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/KODIVAR/KIDS/master/SCOOBY%20DOO%20-%20Os%20Ho-Ho-L%C3%ADmpicos</externallink>
+<thumbnail>http://www.filmesonlinegratis.com/wp-content/uploads/2015/04/Scooby_Doo_Os_Ho_ho_l_mpicos_Jogos_Assombrados.jpg</thumbnail>
+<fanart>http://s1.dmcdn.net/Cbj6U/1280x720-r7i.jpg</fanart>
+</item>
+
+<item>  
+<title>[COLOR orange][B] Tom & Jerry [/B][/COLOR][COLOR lawngreen] BR [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/KODIVAR/KIDS/master/TOM%20%26%20JERRY</externallink>
+<thumbnail>http://s.sidereel.com/tv_shows/35161/giant_2x/72860-8.jpg</thumbnail>
+<fanart>http://static.comicvine.com/uploads/original/0/40/3749784-1_tjs_080_online_gmt_2.jpg</fanart>
+</item>
+
+<item>  
+<title>[COLOR orange][B] As Aventuras de Tintim [/B][/COLOR][COLOR lawngreen] BR [/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/KODIVAR/KIDS/master/AS%20AVENTURAS%20DE%20TINTIM</externallink>
 <thumbnail>https://cdn.fstatic.com/media/movies/covers/2012/12/thumbs/0d185f91d3667cf1d4ddd05df0b5a555_jpg_290x478_upscale_q90.jpg</thumbnail>
@@ -124,7 +141,7 @@
 
 
 <item>
-<title>[COLOR orange][B] Dragon Ball [/COLOR][/B][COLOR lawngreen] Vários [/COLOR]</title>
+<title>[COLOR orange][B] Dragon Ball [/COLOR][/B]</title>
 <fanart>https://cld.pt/dl/download/4df7d78d-1952-4ed1-863f-0e9b5edd79cc/drag.jpg</fanart>
 <thumbnail>https://cld.pt/dl/download/2df39b9a-9ef4-4401-a938-15ed4732372f/dragg.jpg</thumbnail>
 <link> </link>
@@ -132,7 +149,7 @@
 </item>
 
 <item>
-<title>[COLOR orange][B] Attack on Titan [/COLOR][/B][COLOR lawngreen] Vários [/COLOR]</title>
+<title>[COLOR orange][B] Attack on Titan [/COLOR][/B]</title>
 <fanart>https://cld.pt/dl/download/4df7d78d-1952-4ed1-863f-0e9b5edd79cc/drag.jpg</fanart>
 <thumbnail>https://raw.githubusercontent.com/KODIVAR/CumCatano-TV/master/CCTV.png</thumbnail>
 <link> </link>
